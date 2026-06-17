@@ -3,15 +3,14 @@
   ║  GitHub Profile · @work-meow                                          ║
   ║  Дизайн: монохром · оттенки серого · графит / уголь / свет            ║
   ║  Эстетика: минимализм, типографика, чистые формы                      ║
-  ║  Адаптив: <picture> + prefers-color-scheme (light = светло, dark = тьма)║
   ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
 <!-- ═══════════ HERO · органичная фигура venom · монохром ═══════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:30363d,50:6e7681,100:0d1117&height=280&section=header&text=Dmitriy&fontColor=ffffff&fontSize=66&fontAlignY=42&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:eaeef2,50:8b949e,100:d0d7de&height=280&section=header&text=Dmitriy&fontColor=1f2328&fontSize=66&fontAlignY=42&animation=twinkling">
-  <img alt="Dmitriy" src="https://capsule-render.vercel.app/api?type=venom&color=0:eaeef2,50:8b949e,100:d0d7de&height=280&section=header&text=Dmitriy&fontColor=1f2328&fontSize=66&fontAlignY=42&animation=twinkling" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:30363d,50:6e7681,100:0d1117&height=280&section=header&text=MeowMurk&fontColor=ffffff&fontSize=66&fontAlignY=42&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:eaeef2,50:8b949e,100:d0d7de&height=280&section=header&text=MeowMurk&fontColor=1f2328&fontSize=66&fontAlignY=42&animation=fadeIn">
+  <img alt="MeowMurk" src="https://capsule-render.vercel.app/api?type=venom&color=0:eaeef2,50:8b949e,100:d0d7de&height=280&section=header&text=MeowMurk&fontColor=1f2328&fontSize=66&fontAlignY=42&animation=fadeIn" width="100%">
 </picture>
 
 <!-- ═══════════ ПЕЧАТАЮЩИЙСЯ ПОДЗАГОЛОВОК · монохром ═══════════ -->

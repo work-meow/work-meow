@@ -8,10 +8,21 @@
 
 <!-- ═══════════ HERO · органичная фигура venom · монохром ═══════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:30363d,50:6e7681,100:0d1117&height=280&section=header&text=MeowMurk&fontColor=ffffff&fontSize=66&fontAlignY=42&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:eaeef2,50:8b949e,100:d0d7de&height=280&section=header&text=MeowMurk&fontColor=1f2328&fontSize=66&fontAlignY=42&animation=fadeIn">
-  <img alt="MeowMurk" src="https://capsule-render.vercel.app/api?type=venom&color=0:eaeef2,50:8b949e,100:d0d7de&height=280&section=header&text=MeowMurk&fontColor=1f2328&fontSize=66&fontAlignY=42&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:30363d,50:6e7681,100:0d1117&height=210&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:eaeef2,50:8b949e,100:d0d7de&height=210&section=header">
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=venom&color=0:eaeef2,50:8b949e,100:d0d7de&height=210&section=header" width="100%">
 </picture>
+
+<!-- ═══════════ ИМЯ · надёжный рендер текста через typing-svg ═══════════ -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=64&duration=4000&pause=99000&color=FFFFFF&center=true&vCenter=true&width=600&height=90&lines=MeowMurk">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=64&duration=4000&pause=99000&color=1F2328&center=true&vCenter=true&width=600&height=90&lines=MeowMurk">
+  <img alt="MeowMurk" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=64&center=true&vCenter=true&width=600&height=90&lines=MeowMurk">
+</picture>
+
+</div>
 
 <!-- ═══════════ ПЕЧАТАЮЩИЙСЯ ПОДЗАГОЛОВОК · монохром ═══════════ -->
 <div align="center">
